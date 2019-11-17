@@ -1,0 +1,48 @@
+{
+  "_from": "discord-bot-no-fortnite-addon",
+  "_id": "discord-bot-no-fortnite-addon@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ZYQUZy+bBwGt/9n8X7+ZlMSe6GjikFY54FyrCB1Vq5AM35t9Ec3TGqJq1BQQo+iQwXhVPm9rRhk90lpoNgWHAw==",
+  "_location": "/discord-bot-no-fortnite-addon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord-bot-no-fortnite-addon",
+    "name": "discord-bot-no-fortnite-addon",
+    "escapedName": "discord-bot-no-fortnite-addon",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-bot-no-fortnite-addon/-/discord-bot-no-fortnite-addon-1.1.2.tgz",
+  "_shasum": "3969fe2d8d9769d15c521f4c25f876d7c606f894",
+  "_spec": "discord-bot-no-fortnite-addon",
+  "_where": "C:\\Users\\nick\\Desktop\\nick",
+  "author": {
+    "name": "Nick Chan#0001"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "deprecated": false,
+  "description": "bans fortnite players",
+  "devDependencies": {},
+  "keywords": [
+    "no-fortnite",
+    "discord.js",
+    "discord-bot"
+  ],
+  "license": "ISC",
+  "main": "bot.js",
+  "name": "discord-bot-no-fortnite-addon",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "version": "1.1.2"
+}
