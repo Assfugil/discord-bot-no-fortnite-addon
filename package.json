@@ -6,13 +6,12 @@
     "discord.js": "^11.5.1"
   },
   "description": "bans fortnite players",
-  "devDependencies": {},
   "keywords": [
     "no-fortnite",
     "discord.js",
     "discord-bot"
   ],
-  "bugs":"https://github.com/Assfugil/discord-bot-no-fortnite-addon/issues",
+  "bugs": "https://github.com/Assfugil/discord-bot-no-fortnite-addon/issues",
   "license": "ISC",
   "repository": "github:Assfugil/discord-bot-no-fortnite-addon",
   "main": "bot.js",
@@ -20,5 +19,5 @@
   "scripts": {
     "test": "node bot.js"
   },
-  "version": "1.1.3"
+  "version": "1.2.0-2"
 }
